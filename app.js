@@ -13,6 +13,9 @@ app.use(express.urlencoded({extended:false}))
 
 
 app.use('/api/products', require("./routes/products"))
+app.get('/', (req,res) => {
+    res.send("I'm Live Yeaah! ")
+})
 
 connectDB()
 
