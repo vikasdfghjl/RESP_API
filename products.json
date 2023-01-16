@@ -1,0 +1,53 @@
+[
+    {
+    "name":"iphone11",
+    "price":"149",
+    "featured":true,
+    "company":"apple"
+},
+{
+    "name":"iphone12",
+    "price":"360",
+    "featured":true,
+    "company":"apple"
+},
+{
+    "name":"laptopi5",
+    "price":"784",
+    "company":"dell"
+},
+{
+    "name":"redminote12",
+    "price":"145",
+    "company":"mi"
+},{
+    "name":"23U",
+    "price":"325",
+    "company":"samsung"
+},
+{
+    "name":"11T",
+    "price":"222",
+    "company":"oneplus"
+},
+{
+    "name":"foldableLaptop",
+    "price":"524",
+    "company":"dell"
+},
+{
+    "name":"23Plus",
+    "price":"454",
+    "company":"samsung"
+},
+{
+    "name":"gamingLaptop",
+    "price":"114",
+    "company":"dell"
+},
+{
+    "name":"12promax",
+    "price":"144",
+    "company":"mi"
+}
+]
